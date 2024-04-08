@@ -19,8 +19,6 @@
 # 📃 <span id="descrição">Descrição</span>
 Clone da interface do Twitter, com capacidade de postar tweets, timeline e comentar tweets específicos. Desenvolvido com [**React**](https://react.dev/) com [**TypeScript**](https://www.typescriptlang.org/), a fim de estudos sobre tipagem estática e componentização, com rotas utilizando a lib [**React Router DOM**](https://reactrouter.com/en/main) e salvamento dos tweets localmente com a lib [**localforage**](https://github.com/localForage/localForage) e classificação na timeline por data com [**match-sorter**](https://github.com/kentcdodds/match-sorter) e [**sort-by**](https://github.com/kvnneff/sort-by).
 
-Aplicação desenvolvida utilizando a API do [**GitHub**](https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api), para realizar busca de usuários, utilizando a lib [**axios**](https://github.com/axios/axios) para requisições e respostas.
-
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Postar tweets<br>
 - [x] Visualização de uma timeline de tweets<br>
